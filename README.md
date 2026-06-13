@@ -1,95 +1,94 @@
-<!--
-**parthchauhan11/parthchauhan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Parth Chauhan
 
-Here are some ideas to get you started:
+### Laravel Developer | PHP Developer | Full Stack Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi 👋, I'm Parth Chauhan
-
-### Full Stack Web Developer | Laravel Developer | PHP Developer
-
-I am a passionate web developer with experience in building scalable web applications, news portals, and content management systems using Laravel and modern web technologies.
+Passionate web developer with 4+ years of experience building scalable web applications, REST APIs, CMS solutions, and news portal platforms. I enjoy creating efficient backend systems and delivering user-friendly web experiences.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Working with PHP, Laravel, MySQL, JavaScript, jQuery, and Bootstrap
-- 🌱 Currently learning advanced Laravel architecture and API optimization
-- 🔧 Experienced in REST API development and third-party integrations
-- 📰 Worked on News Portal and CMS-based projects
-- 💼 Available for Freelance Web Development Projects
-- 📍 Gujarat, India
+- 💼 Full Stack Web Developer with 4+ years of experience
+- 🔥 Specialized in PHP & Laravel Development
+- 📰 Experienced in News Portal & CMS Development
+- ⚡ Strong knowledge of REST APIs and Database Design
+- 🌱 Continuously learning modern web technologies and best practices
+- 📍 Jamnagar, Gujarat, India
+- 🚀 Open to exciting opportunities and freelance projects
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Backend
-- PHP
-- Laravel
-- REST APIs
-- MySQL
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frontend
-- HTML5
-- CSS3
-- Bootstrap 5
-- JavaScript
-- jQuery
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- XAMPP
-- WAMP
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthchauhan11&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthchauhan11&layout=compact)
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=parthchauhan11)
 
 ---
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: Add Your LinkedIn Profile
-- Email: your-email@example.com
+[![GitHub](https://img.shields.io/badge/GitHub-parthchauhan11-181717?style=for-the-badge&logo=github)](https://github.com/parthchauhan11)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parth%20Chauhan-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/parth-chauhan-56915a211)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Expertise
 
-### News Portal
-Laravel-based news portal with category management, latest news updates, videos, and CMS integration.
+✔ Laravel Application Development
 
-### REST API Development
-Developed optimized APIs with caching and performance improvements.
+✔ REST API Development & Integration
 
-### CMS Solutions
-Custom CMS solutions built using Laravel and MySQL.
+✔ CMS & News Portal Development
+
+✔ MySQL Database Design & Optimization
+
+✔ Performance Optimization & Bug Fixing
+
+✔ Responsive Web Development
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me.
+## 💡 Current Focus
+
+- Advanced Laravel Development
+- API Performance Optimization
+- Clean Architecture & Best Practices
+- Modern Full Stack Development
+
+---
+
+### ⭐ Thanks for visiting my profile!
+Feel free to explore my repositories and connect with me.
