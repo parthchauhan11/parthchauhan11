@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Parth Chauhan Banner">
+</p>
+
 # Hi there 👋, I'm Parth Chauhan
 
 ### Laravel Developer | PHP Developer | Full Stack Web Developer
