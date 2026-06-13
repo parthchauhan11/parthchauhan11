@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Parth Chauhan Banner">
+  <img src="./banner-image.png" width="100%" alt="Parth Chauhan Banner">
 </p>
 
 # Hi there 👋, I'm Parth Chauhan
