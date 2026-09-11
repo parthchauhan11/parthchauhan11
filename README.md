@@ -108,33 +108,6 @@ I specialize in **Laravel, PHP, Node.js, REST APIs, MySQL, React**, and backend 
 
 ---
 
-## 💼 Experience
-
-### Backend Developer — Freebird App Studio LLP
-
-**Nov 2022 – Dec 2025**
-
-* Developed scalable backend systems using **Laravel & Node.js**
-* Designed and integrated **REST APIs and microservices**
-* Worked with third-party APIs and payment gateway integrations
-* Implemented authentication using **JWT, OAuth & Laravel Sanctum**
-* Optimized database queries, indexing and backend performance
-* Built real-time multiplayer functionality using **Node.js & WebSockets**
-* Implemented game logic, matchmaking and leaderboards
-* Participated in debugging, code reviews and performance optimization
-
-### Freelance & Self-Employed — Backend & Web Developer
-
-**Oct 2025 – Present**
-
-* Building and maintaining **Laravel & React applications**
-* Developing REST APIs and backend services
-* Managing Linux servers and deployments
-* Working with **Nginx, PM2 and production environments**
-* Implementing new features and maintaining existing applications
-
----
-
 ## 🌟 Featured Projects
 
 ### 📰 Ahmedabad Mirror
