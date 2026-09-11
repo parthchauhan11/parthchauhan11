@@ -2,7 +2,7 @@
   <img src="./banner-image.png" width="100%" alt="Parth Chauhan Banner">
 </p>
 
-# Hi there 👋, I'm Parth Chauhan
+# Hi there 👋, I'm Parth Chauhan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ### Laravel Developer | PHP Developer | Full Stack Web Developer
 
